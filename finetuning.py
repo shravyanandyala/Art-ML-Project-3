@@ -2,8 +2,6 @@
 # Output is saved model and model weights to local machine under the name "finetuned_model.pt"
 # and "finetuned_model_weights.pt".
 
-# Author: Shravya Nandyala snandyal@andrew.cmu.edu
-
 # Referenced https://github.com/dontmindifiduda/poe/blob/master/gpt2_poem_line.ipynb as a tutorial for fine-tuning.
 
 import nltk

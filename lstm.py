@@ -2,8 +2,6 @@
  # Use a bidirectional LSTM to generate 25 word poems given a seed text.
  # No other poetry factors considered.
 
-# Author: Priyanshi Garg pgarg2@andrew.cmu.edu
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
